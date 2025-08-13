@@ -1,0 +1,11 @@
+
+# dependencies
+**/node_modules
+
+# local env files
+.vscode/
+
+backend/log.txt
+backend/.env
+backend/package-lock.json
+frontend/package-lock.json
